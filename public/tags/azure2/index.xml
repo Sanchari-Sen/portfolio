@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Azure2 on Sanchari Sen</title><link>https://hugo-profile.netlify.app/tags/azure2/</link><description>Recent content in Azure2 on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/azure2/index.xml" rel="self" type="application/rss+xml"/><item><title>Nuclear Resonance Analysis Using R-Matrix Formalism</title><link>https://hugo-profile.netlify.app/research/nuclear-physics/project3/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>https://hugo-profile.netlify.app/research/nuclear-physics/project3/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
-&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
-&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;
-&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;R-Matrix Formalism Optimization:&lt;/strong&gt; Applied the multi-level, multi-channel R-matrix framework to model resonant scattering behaviors, identifying and characterizing unstable energy levels in compound nuclei appearing as sharp cross-section anomalies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Compound Nucleus Profiling:&lt;/strong&gt; Conducted comprehensive numerical modeling of the resonant states within the compound nucleus $^{16}\text{O}$ via the elastic channel $^{12}\text{C}(\alpha,\alpha)^{12}\text{C}$.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cross-Section Computation:&lt;/strong&gt; Computed fine-grid differential reaction cross sections mapped strictly against variations in center-of-mass excitation energies using the C++ based &lt;strong&gt;AZURE2&lt;/strong&gt; configuration platform.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure2 on Sanchari Sen </title>
+    <link>https://Sanchari-Sen.github.io/portfolio/tags/azure2/</link>
+    <description>Recent content in Azure2 on Sanchari Sen </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Sanchari-Sen.github.io/portfolio/tags/azure2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear Resonance Analysis Using R-Matrix Formalism</title>
+      <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;R-Matrix Formalism Optimization:&lt;/strong&gt; Applied the multi-level, multi-channel R-matrix framework to model resonant scattering behaviors, identifying and characterizing unstable energy levels in compound nuclei appearing as sharp cross-section anomalies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Compound Nucleus Profiling:&lt;/strong&gt; Conducted comprehensive numerical modeling of the resonant states within the compound nucleus $^{16}\text{O}$ via the elastic channel $^{12}\text{C}(\alpha,\alpha)^{12}\text{C}$.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-Section Computation:&lt;/strong&gt; Computed fine-grid differential reaction cross sections mapped strictly against variations in center-of-mass excitation energies using the C++ based &lt;strong&gt;AZURE2&lt;/strong&gt; configuration platform.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
