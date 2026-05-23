@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stellar-Evolution on Sanchari Sen</title><link>https://hugo-profile.netlify.app/tags/stellar-evolution/</link><description>Recent content in Stellar-Evolution on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/stellar-evolution/index.xml" rel="self" type="application/rss+xml"/><item><title>Stellar Evolution &amp; Nucleosynthesis: Main Sequence and Post-Main Sequence</title><link>https://hugo-profile.netlify.app/research/stellar-physics/project1/</link><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid>https://hugo-profile.netlify.app/research/stellar-physics/project1/</guid><description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury &amp;amp; Prof. Dhruba Gupta&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stellar Structure &amp;amp; Homologous Modeling:&lt;/strong&gt; Derived scaling relations for MS stars from fundamental stellar structure equations; Modeled stellar interiors using StatStar, validating theoretical predictions against empirical data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observational Data Analysis:&lt;/strong&gt; Analyzed GAIA DR3 and HIPPARCOS surveys to construct Color-Magnitude Diagrams (CMDs) and Hertzsprung-Russell (HR) diagrams; Identified coeval stars in clusters (e.g., Messier 2) via MIST isochrone fitting, determining age, metallicity, and distance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post-MS Nucleosynthesis:&lt;/strong&gt; Studied the triple-alpha process and the critical $^{12}\text{C}(\alpha,\gamma)^{16}\text{O}$ reaction, which determines the $\text{C/O}$ ratio in stellar cores; Performed R-matrix analysis (using AZURE2) to resolve resonant energy levels in $^{16}\text{O}$, enhancing cross-section predictions for helium burning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="outcomes--directions"&gt;Outcomes &amp;amp; Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrated observational alignment with homologous models: pp-chain dominates in low-mass stars, while CNO-cycle fits high-mass stars.&lt;/li&gt;
+&lt;li&gt;Quantified uncertainties in $^{12}\text{C}(\alpha,\gamma)^{16}\text{O}$ rates, pivotal for understanding elemental abundances in evolved stars.&lt;/li&gt;
+&lt;li&gt;Developed Python pipelines for automated isochrone fitting and cluster parameter estimation.&lt;/li&gt;
+&lt;li&gt;Future work involves looking into later evolutionary stages and utilizing more complex evolutionary codes.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
