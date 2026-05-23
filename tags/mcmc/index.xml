@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mcmc on Sanchari Sen</title><link>https://hugo-profile.netlify.app/tags/mcmc/</link><description>Recent content in Mcmc on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/mcmc/index.xml" rel="self" type="application/rss+xml"/><item><title>Constraining Cosmological Parameters Using Bayesian Inference</title><link>https://hugo-profile.netlify.app/research/cosmology/project2/</link><pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate><guid>https://hugo-profile.netlify.app/research/cosmology/project2/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Xaverian Astronomical Society, St. Xavier’s College, Kolkata&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury&lt;br&gt;
+&lt;strong&gt;Contributor:&lt;/strong&gt; Bipasha Bhattacharjee&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cosmological Parameter Spaces:&lt;/strong&gt; Investigated the estimation of core parameters governing cosmic expansion dynamics—specifically the &lt;strong&gt;Hubble constant ($H_0$)&lt;/strong&gt; and the &lt;strong&gt;matter density parameter ($\Omega_m$)&lt;/strong&gt;—modeled within a foundational Newtonian cosmology framework.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian Statistical Architecture:&lt;/strong&gt; Implemented a robust parameter estimation pipeline utilizing a standard Gaussian likelihood function mapped alongside uniform (flat) prior distributions to represent initial parameter uncertainties.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markov Chain Monte Carlo (MCMC) Sampling:&lt;/strong&gt; Utilized MCMC stochastic sampling techniques to efficiently traverse the multi-dimensional parameter space, generating posterior probability distributions and tracing parameter degeneracies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="outcomes--directions"&gt;Outcomes &amp;amp; Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Successfully derived numerical constraints for both $H_0$ and $\Omega_m$ that display strong statistical convergence and align cleanly with established precision observational datasets.&lt;/li&gt;
+&lt;li&gt;Demonstrated the utility and mathematical robustness of Bayesian inference structures for breaking parameter degeneracies in astronomical model fitting.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
