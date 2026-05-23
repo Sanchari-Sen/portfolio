@@ -229,7 +229,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: "View Projects"
-          link: "/research/stellar-physics"
+          link: "/portfolio/research/stellar-physics"
         badges:
           - "MESA"
           - "RADMC-3D"
@@ -243,7 +243,7 @@ params:
         image: /images/projects/converter.jpg
         featured:
           name: "View Projects"
-          link: "/research/cosmology"
+          link: "/portfolio/research/cosmology"
         badges:
           - "Python"
           - "Data Pipelines"
@@ -256,7 +256,7 @@ params:
         image: /images/projects/profile2.jpg
         featured:
           name: "View Projects"
-          link: "/research/nuclear-physics"
+          link: "/portfolio/research/nuclear-physics"
         badges:
           - "Data Analysis"
           - "Linux / Bash"
