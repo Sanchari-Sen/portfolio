@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solar-Physics on Sanchari Sen </title>
+    <link>http://localhost:1313/tags/solar-physics/</link>
+    <description>Recent content in Solar-Physics on Sanchari Sen </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/solar-physics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantitative Forecasting of Sunspot Numbers Using Machine Learning</title>
+      <link>http://localhost:1313/research/stellar-physics/project2/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/stellar-physics/project2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury&lt;br&gt;&#xA;&lt;strong&gt;Co-authors:&lt;/strong&gt; Tiasha Singha, Sirsha Dutta&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Solar Dynamo Mechanics:&lt;/strong&gt; Investigated the fundamental physics behind solar magnetic field variations, tracking surface sunspot formation mechanics alongside global magnetic pole-flip cyclic phases.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time-Series Forecasting:&lt;/strong&gt; Built predictive machine learning models targeting monthly sunspot numbers, utilizing historical solar dataset baselines sourced directly from the World Data Center SILSO.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Architecture Comparison:&lt;/strong&gt; Evaluated performance margins across traditional statistical regression modeling approaches against multi-layered deep learning architectures optimized for sequential tracking.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;publications--presentations&#34;&gt;Publications &amp;amp; Presentations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Paper Under Review:&lt;/strong&gt; &lt;em&gt;Quantitative Forecasting of Sunspot Numbers: Statistical Models and Deep Learning Models&lt;/em&gt; * &lt;strong&gt;Conference Talk:&lt;/strong&gt; Presented findings at the &lt;em&gt;International Conference on Advanced Physics: Innovations for a Sustainable Future&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

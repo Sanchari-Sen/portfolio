@@ -1,0 +1,329 @@
+baseURL: "https://hugo-profile.netlify.app"
+languageCode: "en-us"
+title: "Sanchari Sen "
+theme: hugo-profile
+
+# Multilingual configuration
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content"
+    menu:
+      main:
+        - identifier: resources
+          name: "Resources"
+          title: "Physics Notes and Materials"
+          url: "/blogs/"
+          weight: 1
+        - identifier: extras
+          name: "Extras"
+          title: "Blog & Photography Links"
+          url: "/gallery/"
+          weight: 2
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: gallery
+      name: Gallery
+      title: Gallery
+      url: /gallery
+      weight: 2
+
+params:
+  title: "Hugo Profile"
+  description: Text about my cool site
+  hostName: "http://localhost:1313/"
+  favicon: "/fav.png"
+
+  useBootstrapCDN: false
+
+  mathjax: false
+
+  animate: true
+
+  theme:
+
+  font:
+    fontSize: 1rem 
+    fontWeight: 400 
+    lineHeight: 1.5 
+    textAlign: left 
+
+  navbar:
+    align: ms-auto 
+    brandName: "Sanchari's Spectra" 
+    disableSearch: false
+    stickyNavBar:
+      enable : true
+      showOnScrollUp : true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hi, my name is"
+    title: "Sanchari."
+    subtitle: "Physicist in training | Photographer"
+    content: "An M.Sc Physics student, curious about stars, slowing learning how to study them with clicks in my computer"
+    image: /images/hero.svg
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "Resume"
+      url: "#"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://example.com
+        - icon: fab fa-x-twitter
+          url: https://example.com
+      customIcons:
+        - icon: /fav.png
+          url: "https://example.com"
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.png"
+    content:  "I’m a physics student working in stellar astrophysics—mostly circling around questions of how stars are born, live, and eventually fall apart in ways that somehow still feel orderly. Some days I’m thinking about how a star holds itself together for millions of years before collapsing, and other days I’m just trying to get the equations to behave on paper.\n\nI grew up in Kolkata, where everything feels slightly too full and slightly too alive. I think that’s where my habit of looking twice comes from—at people waiting at crossings, light hitting old walls, the small chaos of it all.\n\nI usually carry a camera around with me. Not always with a plan—just because sometimes something catches my eye and I don’t want to trust my memory with it.\n\nThis space is just a collection of those moments, and the questions behind them."
+
+  # Education
+  education:
+    enable: true
+    index: false
+    items:
+      - title: "M.Sc Physics"
+        school:
+          name: "Heidelberg University"
+          url: "https://example.org"
+        date: "October, 2025 - Present"
+        content: |-
+          Specialization:
+            - Stellar Astrophysics
+            
+      - title: "B.Sc Physics"
+        school:
+          name: "St. Xavier's College (Autonomous), Kolkata"
+          url: "https://example.org"
+        date: "2022 - 2025"
+        content: |-
+          B.Sc dissertation: Stellar Evolution and Nucleosyntheis, under the supervision of Dr. Suparna Roychowdhury and Prof. Dr. Dhruba Gupta
+        featuredLink:
+          enable: false
+          name: "My academic record"
+          url: "https://example.com"
+      - title: "ICSE & ISC"
+        school:
+          name: "St. Stephen's School, Dum Dum, India"
+        GPA: "ISC= 98.25% ; ICSE= 96%"
+        featuredLink:
+          enable: false
+          url: "https://example.com"
+
+  # Professional
+  experience:
+    enable: true
+    title: "Professional Roles"
+    items:
+      - company: "MPIK"
+        jobs:
+          - name: "Research Assistant"
+            date: "Jan 2025 - present"
+            content: "I am currently working on the analysis of cryogenic detector data from the CRAB experiment using CryoLab under the supervision of PD Dr.Thierry Lasserre."
+            info:
+              content: Working as a student research assistant
+
+      - company: "XAS"
+        jobs:
+          - name: "Secretary"
+            date: "Aug 2024 - Aug 2025"
+            info:
+              content: Student Secretary.
+            content: " I served as the secretary of the Xaverian Astronomical Society during the final year of my undergraduate, where my roles were guiding junior students in astrophysics research and organising events and seminars of the society."
+          - name:  "Undergrad Mentor"
+            date:  "2023-2025"
+            info: 
+                content:
+            content: "I have mentored high school students in summer school on basics of astronomy."
+
+      - company: "YSJ"
+        companyUrl: "https://example.com"
+        jobs: 
+        - name: "Editor"
+          date: "Sep 2023 - Jan 2026"
+          content: |
+            I served as a junior editor for the Physics department
+
+  # Achievements section repurposed for Core Skills
+  achievements:
+    enable: true
+    title: "Skills & Technical Expertise"
+    items:
+      - title: "Programming Languages"
+        content: |
+          • Python • MATLAB • Java • C • SQL
+          • Gnuplot • LTspice • LaTeX
+          
+        url: ""
+
+      - title: "Scientific Software Frameworks"
+        content: |
+          • GEANT4 • NPTools
+          • CERN-ROOT 
+          • AZURE2 • Astrometrica
+        url: ""
+
+      - title: "Astrophysics & Data Packages"
+        content: |
+          • Scikit-learn • GPy • PyMC
+          • Astropy • Lightkurve • TACO
+          • RADMC-3D
+        url: ""
+
+      - title: "Languages & Research Competencies"
+        content: |
+          • Research: Telescope Handling, Technical Writing, Literature Review
+          • Languages: English (IELTS C1), German, Bengali, Hindi
+        url: ""
+        
+  # Projects
+  projects:
+    enable: true
+    title: "Projects and Research"
+    items:
+      - title: "Stellar Physics"
+        content: "Investigating theoretical frameworks, homologous modeling, and nuclear reaction cross-sections against empirical data."
+        image: /images/projects/profile.png
+        featured:
+          name: "View Projects"
+          link: "/research/stellar-physics"
+        badges:
+          - "MESA"
+          - "RADMC-3D"
+          - "AZURE2"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com"
+
+      - title: "Cosmology"
+        content: "Developing computational pipelines for large-scale cosmic environments, structural transitions, and data analysis."
+        image: /images/projects/converter.jpg
+        featured:
+          name: "View Projects"
+          link: "/research/cosmology"
+        badges:
+          - "Python"
+          - "Data Pipelines"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com"
+
+      - title: "Nuclear Physics"
+        content: "Focusing on data processing, experimental instrumentation workflows, event processing, and tracking frameworks."
+        image: /images/projects/profile2.jpg
+        featured:
+          name: "View Projects"
+          link: "/research/nuclear-physics"
+        badges:
+          - "Data Analysis"
+          - "Linux / Bash"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com"
+
+
+# REPURPOSING CUSTOM CARD FOR YOUR EXTRAS & LINKS
+  customCard:
+    enable: true
+    title: "Extras & Resources"
+    items:
+      - title: "Stellar Musings (Blogger)"
+        description: "My personal blog space exploring physics concepts, core math insights, university life, and astronomical notes. \n\n 👉 [Read Blog](https://your-blogger-link.blogspot.com)"
+
+      - title: "Captured Frames (Framer Portfolio)"
+        description: "A dedicated visual space showcasing my focus in macro, close-up nature, wilderness, and street photography. \n\n 👉 [View Gallery](https://your-framer-link.framer.website)"
+
+      - title: "Physics Reference Archive"
+        description: "A growing compilation of study guides, script summaries, and observational astrophysics references. (Content tracking and logs coming soon as the semester progresses!)"
+
+
+  # Contact
+  contact:
+    enable: true
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    btnName: Mail me
+    btnLink: mailto:sanchari.sen@stud.uni-heidelberg.de
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com
+      linkedin: https://linkedin.com
+      twitter: https://twitter.com
+      instagram: https://instagram.com
+      facebook: https://facebook.com
+
+  # List pages like blogs and posts
+  listPages:
+    disableFeaturedImage: false
+
+  # Single pages like blog and post
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: true
+
+  # For translations
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
