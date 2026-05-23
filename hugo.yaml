@@ -94,7 +94,7 @@ params:
     title: "Sanchari."
     subtitle: "Physicist in training | Photographer"
     content: "An M.Sc Physics student, curious about stars, slowing learning how to study them with clicks in my computer"
-    image: /images/hero.svg
+    image: /portfolio/images/hero.svg
     bottomImage:
       enable: true
     button:
@@ -117,7 +117,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/portfolio/images/me.png"
     content:  "I’m a physics student working in stellar astrophysics—mostly circling around questions of how stars are born, live, and eventually fall apart in ways that somehow still feel orderly. Some days I’m thinking about how a star holds itself together for millions of years before collapsing, and other days I’m just trying to get the equations to behave on paper.\n\nI grew up in Kolkata, where everything feels slightly too full and slightly too alive. I think that’s where my habit of looking twice comes from—at people waiting at crossings, light hitting old walls, the small chaos of it all.\n\nI usually carry a camera around with me. Not always with a plan—just because sometimes something catches my eye and I don’t want to trust my memory with it.\n\nThis space is just a collection of those moments, and the questions behind them."
 
   # Education
@@ -226,7 +226,7 @@ params:
     items:
       - title: "Stellar Physics"
         content: "Investigating theoretical frameworks, homologous modeling, and nuclear reaction cross-sections against empirical data."
-        image: /images/projects/profile.png
+        image: /portfolio/images/projects/profile.png
         featured:
           name: "View Projects"
           link: "/portfolio/research/stellar-physics"
@@ -240,7 +240,7 @@ params:
 
       - title: "Cosmology"
         content: "Developing computational pipelines for large-scale cosmic environments, structural transitions, and data analysis."
-        image: /images/projects/converter.jpg
+        image: /portfolio/images/projects/converter.jpg
         featured:
           name: "View Projects"
           link: "/portfolio/research/cosmology"
@@ -253,7 +253,7 @@ params:
 
       - title: "Nuclear Physics"
         content: "Focusing on data processing, experimental instrumentation workflows, event processing, and tracking frameworks."
-        image: /images/projects/profile2.jpg
+        image: /portfolio/images/projects/profile2.jpg
         featured:
           name: "View Projects"
           link: "/portfolio/research/nuclear-physics"
