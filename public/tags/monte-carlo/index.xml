@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Monte-Carlo on Sanchari Sen </title>
-    <link>http://localhost:1313/tags/monte-carlo/</link>
-    <description>Recent content in Monte-Carlo on Sanchari Sen </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/monte-carlo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Monte Carlo Simulations for Radiation Detectors &amp; Reactions</title>
-      <link>http://localhost:1313/research/nuclear-physics/project2/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/nuclear-physics/project2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;&#xA;&lt;h3 id=&#34;major-tasks--methodology&#34;&gt;Major Tasks &amp;amp; Methodology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Particle-Matter Modeling:&lt;/strong&gt; Simulated full particle-matter interactions in low-to-intermediate energy nuclear reactions using advanced Monte Carlo frameworks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geometry Configuration:&lt;/strong&gt; Hand-coded complex, multi-stage detector geometries based on specific exotic nuclei configurations to accurately track physical energy deposition layers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Synthesis Frameworks:&lt;/strong&gt; Utilized specialized computational toolkits including &lt;strong&gt;NPTools&lt;/strong&gt; and &lt;strong&gt;GEANT4&lt;/strong&gt; to build complete detector environments, tracking simulated reaction outputs for deep analytical evaluation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;analysis--optimization&#34;&gt;Analysis &amp;amp; Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployed the &lt;strong&gt;CERN-ROOT&lt;/strong&gt; C++ framework to extract, parse, and analyze heavy output simulation trees.&lt;/li&gt;&#xA;&lt;li&gt;Compared synthetic data profiles against established literature baselines to iteratively optimize detector efficiencies.&lt;/li&gt;&#xA;&lt;li&gt;Extracted structural metrics including total reaction cross-sections, optimal input beam energies, and simulated particle tracking counts.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Monte-Carlo on Sanchari Sen</title><link>https://hugo-profile.netlify.app/tags/monte-carlo/</link><description>Recent content in Monte-Carlo on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/tags/monte-carlo/index.xml" rel="self" type="application/rss+xml"/><item><title>Monte Carlo Simulations for Radiation Detectors &amp; Reactions</title><link>https://hugo-profile.netlify.app/research/nuclear-physics/project2/</link><pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate><guid>https://hugo-profile.netlify.app/research/nuclear-physics/project2/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;
+&lt;h3 id="major-tasks--methodology"&gt;Major Tasks &amp;amp; Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Particle-Matter Modeling:&lt;/strong&gt; Simulated full particle-matter interactions in low-to-intermediate energy nuclear reactions using advanced Monte Carlo frameworks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry Configuration:&lt;/strong&gt; Hand-coded complex, multi-stage detector geometries based on specific exotic nuclei configurations to accurately track physical energy deposition layers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Synthesis Frameworks:&lt;/strong&gt; Utilized specialized computational toolkits including &lt;strong&gt;NPTools&lt;/strong&gt; and &lt;strong&gt;GEANT4&lt;/strong&gt; to build complete detector environments, tracking simulated reaction outputs for deep analytical evaluation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="analysis--optimization"&gt;Analysis &amp;amp; Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deployed the &lt;strong&gt;CERN-ROOT&lt;/strong&gt; C++ framework to extract, parse, and analyze heavy output simulation trees.&lt;/li&gt;
+&lt;li&gt;Compared synthetic data profiles against established literature baselines to iteratively optimize detector efficiencies.&lt;/li&gt;
+&lt;li&gt;Extracted structural metrics including total reaction cross-sections, optimal input beam energies, and simulated particle tracking counts.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
