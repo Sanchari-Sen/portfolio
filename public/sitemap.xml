@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/astrophysics/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/computational-astrophysics/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/protoplanetary-disks/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/radiative-transfer/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/research/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/stellar-physics/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/astrophysics/</loc>
     <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project1/</loc>
     <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/tags/stellar-evolution/</loc>
-    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/</loc>
     <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/tags/machine-learning/</loc>
@@ -31,21 +46,6 @@
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/tags/solar-physics/</loc>
     <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/stellar-physics/</loc>
-    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/computational-astrophysics/</loc>
-    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</loc>
-    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/planet-formation/</loc>
-    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/transition-disks/</loc>
-    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/research/cosmology/</loc>
     <lastmod>2026-05-20T00:00:00+00:00</lastmod>
@@ -74,10 +74,10 @@
     <loc>https://Sanchari-Sen.github.io/portfolio/tags/parameter-estimation/</loc>
     <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</loc>
+    <loc>https://Sanchari-Sen.github.io/portfolio/tags/kinematics/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/tags/kinematics/</loc>
+    <loc>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/</loc>
@@ -143,9 +143,12 @@
     <loc>https://Sanchari-Sen.github.io/portfolio/fr/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://Sanchari-Sen.github.io/portfolio/gallery/</loc>
-    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
     <loc>https://Sanchari-Sen.github.io/portfolio/categories/</loc>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/coming-soon/</loc>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/gallery/</loc>
+  </url><url>
+    <loc>https://Sanchari-Sen.github.io/portfolio/blogs/</loc>
   </url>
 </urlset>

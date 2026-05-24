@@ -17,7 +17,7 @@ languages:
         - identifier: resources
           name: "Resources"
           title: "Physics Notes and Materials"
-          url: "/blogs/"
+          url: "/coming-soon/"
           weight: 1
         - identifier: extras
           name: "Extras"
@@ -55,11 +55,11 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   hostName: "http://localhost:1313/"
-  favicon: "/fav.png"
+  favicon: ""
 
   useBootstrapCDN: false
 
-  mathjax: false
+  mathjax: true
 
   animate: true
 
@@ -100,18 +100,18 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://drive.google.com/file/d/15JVgIxwGgAk5VlYiuSV9vZLRhPPnAVRJ/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/Sanchari-Sen
+        - icon: fab fa-linkedin
+          url: https://de.linkedin.com/in/sanchari-sen-882948250
+      #customIcons:
+       # - icon: /fav.png
+        #  url: "https://example.com"
 
   # About
   about:
@@ -236,7 +236,7 @@ params:
           - "AZURE2"
         links:
           - icon: fab fa-github
-            url: "https://github.com"
+            url: "https://github.com/Sanchari-Sen/Isochrone-Fitting-of-Cluster-Data"
 
       - title: "Cosmology"
         content: "Developing computational pipelines for large-scale cosmic environments, structural transitions, and data analysis."
@@ -249,7 +249,7 @@ params:
           - "Data Pipelines"
         links:
           - icon: fab fa-github
-            url: "https://github.com"
+            url: "https://github.com/Sanchari-Sen/21-cm-Cosmo"
 
       - title: "Nuclear Physics"
         content: "Focusing on data processing, experimental instrumentation workflows, event processing, and tracking frameworks."
@@ -262,7 +262,7 @@ params:
           - "Linux / Bash"
         links:
           - icon: fab fa-github
-            url: "https://github.com"
+            url: "https://github.com/Sanchari-Sen/Nuclear-Kinematics"
 
 
 # REPURPOSING CUSTOM CARD FOR YOUR EXTRAS & LINKS
@@ -295,11 +295,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/Sanchari-Sen
+      linkedin: https://de.linkedin.com/in/sanchari-sen-882948250
+     # twitter: https://twitter.com
+     # instagram: https://instagram.com
+      facebook: https://www.facebook.com/people/Sanchari-Sen/pfbid037ZPJo9UbBp9x3SiJXNMW95iuxU81rEj3DfGRbgR3737sY8RYRfqKgaaAbYUFen3Kl/
 
   # List pages like blogs and posts
   listPages:
@@ -320,7 +320,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    copyright: "All rights reserved"
+    copyright: "Sanchari Sen"
     emailText: "Check out this site"
 
   datesFormat:

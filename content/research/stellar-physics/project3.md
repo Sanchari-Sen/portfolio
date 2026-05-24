@@ -1,15 +1,31 @@
 ---
-title: "Hydrodynamics & Radiative Transfer in Transition Disks"
-date: 2026-05-21
-description: "Modeling dust evolution and gas dynamics in circumstellar disks to trace planet formation signatures."
-tags: ["transition-disks", "planet-formation", "computational-astrophysics"]
+title: "Radiative Transfer Modeling of Circumstellar Disks via RADMC-3D"
+date: 2026-05-24
+description: "Modeling protoplanetary and transition disks through Monte Carlo radiative transfer simulations, exploring how stellar and disk parameters shape observable signatures."
+tags: ["stellar-physics", "radiative-transfer", "protoplanetary-disks", "computational-astrophysics"]
+mathjax: true
+---
+**Supervisor:** Prof. Dr. Cornelis P. Dullemond
+
+### Key Investigations
+* **Disk Physics & Evolution:** Explored the structure and evolution of protoplanetary and transition disks, focusing on dust–gas decoupling, inner cavities, and observational signatures linked to planet formation processes.
+* **Radiative Transfer Modeling:** Implemented Monte Carlo radiative transfer simulations using RADMC-3D to compute dust temperature distributions, synthetic images, and spectral energy distributions (SEDs) from physically motivated disk models.
+* **Parametric Disk Analysis:** Systematically varied disk geometry (inner/outer radii) and stellar mass to quantify their impact on temperature profiles, disk morphology, and spectral characteristics.
+* **Synthetic Observables:** Generated mid-infrared images and full SEDs to connect theoretical disk structures with observable quantities, highlighting how radiative effects influence interpretation of astronomical data.
+* **Warped Disk Modeling:** Extended models to fully 3D warped disk geometries, incorporating tilt, rotation, and dynamical perturbations to simulate realistic asymmetries seen in observations.
+
+
+
 ---
 
-**Supervisor:** Prof. Dr. Cornelis P. Dullemond  
+### Outcomes
+* Demonstrated how variations in stellar and disk parameters imprint distinct signatures on temperature structure, morphology, and SEDs—bridging theoretical models with observable disk features.
 
-### Current Focus
+![](/portfolio/images/projects/stellar/radmc3d-image.png)
 
-* **Disk Structure Architecture:** Investigating the physical mechanisms behind gap formation, dust clearing, and evolutionary transitions in circumstellar disks surrounding young stellar objects.
-* **Numerical Modeling:** Utilizing radiative transfer tools and hydrodynamic simulations to construct predictable synthetic observations of dust continuum emissions.
+---
 
-> 🚧 *This research project is actively under progress. Further data pipelines, visual simulations, and structural analysis details will be appended as the modeling phases conclude.*
+### Report
+[📄 Download Full Report](/portfolio/reports/radmc3d-report.pdf)
+
+

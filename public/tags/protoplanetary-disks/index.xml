@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protoplanetary-Disks on Sanchari Sen </title>
+    <link>https://Sanchari-Sen.github.io/portfolio/tags/protoplanetary-disks/</link>
+    <description>Recent content in Protoplanetary-Disks on Sanchari Sen </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Sanchari-Sen.github.io/portfolio/tags/protoplanetary-disks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radiative Transfer Modeling of Circumstellar Disks via RADMC-3D</title>
+      <link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dr. Cornelis P. Dullemond&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Disk Physics &amp;amp; Evolution:&lt;/strong&gt; Explored the structure and evolution of protoplanetary and transition disks, focusing on dust–gas decoupling, inner cavities, and observational signatures linked to planet formation processes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Radiative Transfer Modeling:&lt;/strong&gt; Implemented Monte Carlo radiative transfer simulations using RADMC-3D to compute dust temperature distributions, synthetic images, and spectral energy distributions (SEDs) from physically motivated disk models.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Parametric Disk Analysis:&lt;/strong&gt; Systematically varied disk geometry (inner/outer radii) and stellar mass to quantify their impact on temperature profiles, disk morphology, and spectral characteristics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthetic Observables:&lt;/strong&gt; Generated mid-infrared images and full SEDs to connect theoretical disk structures with observable quantities, highlighting how radiative effects influence interpretation of astronomical data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Warped Disk Modeling:&lt;/strong&gt; Extended models to fully 3D warped disk geometries, incorporating tilt, rotation, and dynamical perturbations to simulate realistic asymmetries seen in observations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Demonstrated how variations in stellar and disk parameters imprint distinct signatures on temperature structure, morphology, and SEDs—bridging theoretical models with observable disk features.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://Sanchari-Sen.github.io/portfolio/images/projects/stellar/radmc3d-image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

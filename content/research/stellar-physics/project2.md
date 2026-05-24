@@ -3,6 +3,7 @@ title: "Quantitative Forecasting of Sunspot Numbers Using Machine Learning"
 date: 2026-05-22
 description: "Predicting solar cycles and active region evolution using traditional regression vs. deep learning time-series architectures."
 tags: ["machine-learning", "stellar-physics", "solar-physics"]
+mathjax: true
 ---
 
 **Supervisor:** Dr. Suparna Roychowdhury  
@@ -19,3 +20,8 @@ tags: ["machine-learning", "stellar-physics", "solar-physics"]
 ### Publications & Presentations
 
 * **Paper Under Review:** *Quantitative Forecasting of Sunspot Numbers: Statistical Models and Deep Learning Models* * **Conference Talk:** Presented findings at the *International Conference on Advanced Physics: Innovations for a Sustainable Future*.
+
+---
+
+### Report
+[📄 Download Full Report](/portfolio/reports/sunspot-report.pdf)
