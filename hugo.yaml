@@ -94,7 +94,7 @@ params:
     title: "Sanchari."
     subtitle: "Physicist in training | Photographer"
     content: "An M.Sc Physics student, curious about stars, slowing learning how to study them with clicks in my computer"
-    image: /portfolio/images/hero.svg
+    image: /portfolio/images/hero.jpg
     bottomImage:
       enable: true
     button:
