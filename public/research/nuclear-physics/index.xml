@@ -1,40 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nuclear Physics on Sanchari Sen </title>
-    <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/</link>
-    <description>Recent content in Nuclear Physics on Sanchari Sen </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kinematics for Two-Body Nuclear Reactions</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kinematic Core Design:&lt;/strong&gt; Developed a Python-based computational tool to simulate and visualize kinematic curves for low-energy, two-body nuclear reactions of the form \(A(a,b)B\).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Conservation Laws Implementation:&lt;/strong&gt; Leveraged fundamental energy and momentum conservation laws, incorporating reaction \(Q\)-values and non-relativistic approximations to predict exact energy-angle correlations of secondary reaction products.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Experimental Parameters Mapping:&lt;/strong&gt; Enabled user-defined parameters for all target, projectile, and detector system properties to aid in pre-experimental design and kinematic validation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;key-simulation-features&#34;&gt;Key Simulation Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stochastic Vertexing:&lt;/strong&gt; Simulates the exact reaction position and resulting angular distributions using Markov Chain Monte Carlo (MCMC) sampling arrays.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Energy Loss Tracking:&lt;/strong&gt; Incorporates deterministic energy-loss algorithms tracking particle degradation inside both the target material and active detector media.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multi-Reaction Capabilities:&lt;/strong&gt; Features a scalable framework capable of overlaying multiple concurrent reactions simultaneously.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;report&#34;&gt;Report&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://Sanchari-Sen.github.io/portfolio/reports/kinematics-report.pdf&#34;&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Monte Carlo Simulations for Nuclear Reaction Experiments using Silicon Charged Particles Detectors</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project2/</link>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;&#xA;&lt;h3 id=&#34;major-tasks--methodology&#34;&gt;Major Tasks &amp;amp; Methodology&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Particle-Matter Modeling:&lt;/strong&gt; Simulated full particle-matter interactions in low-to-intermediate energy nuclear reactions using advanced Monte Carlo frameworks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Geometry Configuration:&lt;/strong&gt; Hand-coded complex, multi-stage detector geometries based on specific exotic nuclei configurations to accurately track physical energy deposition layers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Data Synthesis Frameworks:&lt;/strong&gt; Utilized specialized computational toolkits including &lt;strong&gt;NPTools&lt;/strong&gt; and &lt;strong&gt;GEANT4&lt;/strong&gt; to build complete detector environments, tracking simulated reaction outputs for deep analytical evaluation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;analysis--optimization&#34;&gt;Analysis &amp;amp; Optimization&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deployed the &lt;strong&gt;CERN-ROOT&lt;/strong&gt; C++ framework to extract, parse, and analyze heavy output simulation trees.&lt;/li&gt;&#xA;&lt;li&gt;Compared synthetic data profiles against established literature baselines to iteratively optimize detector efficiencies.&lt;/li&gt;&#xA;&lt;li&gt;Extracted structural metrics including total reaction cross-sections, optimal input beam energies, and simulated particle tracking counts.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;report&#34;&gt;Report&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://Sanchari-Sen.github.io/portfolio/reports/geant4-report.pdf&#34;&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nuclear Resonance Analysis Using R-Matrix Formalism</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</link>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;R-Matrix Formalism Optimization:&lt;/strong&gt; Applied the multi-level, multi-channel R-matrix framework to model resonant scattering behaviors, identifying and characterizing unstable energy levels in compound nuclei appearing as sharp cross-section anomalies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Compound Nucleus Profiling:&lt;/strong&gt; Conducted comprehensive numerical modeling of the resonant states within the compound nucleus \(^{16}\text{O}\) via the elastic channel \(^{12}\text{C}(\alpha,\alpha)^{12}\text{C}\).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-Section Computation:&lt;/strong&gt; Computed fine-grid differential reaction cross sections mapped strictly against variations in center-of-mass excitation energies using the C++ based &lt;strong&gt;AZURE2&lt;/strong&gt; configuration platform.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Nuclear Astrophysics Using Neural Networks</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project4/</link>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project4/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;&#xA;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;&#xA;&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;&#xA;&lt;h3 id=&#34;status&#34;&gt;Status&lt;/h3&gt;&#xA;&lt;p&gt;Still under progress&amp;hellip;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nuclear Physics on Sanchari Sen</title><link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/</link><description>Recent content in Nuclear Physics on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Kinematics for Two-Body Nuclear Reactions</title><link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</link><pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project1/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kinematic Core Design:&lt;/strong&gt; Developed a Python-based computational tool to simulate and visualize kinematic curves for low-energy, two-body nuclear reactions of the form \(A(a,b)B\).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conservation Laws Implementation:&lt;/strong&gt; Leveraged fundamental energy and momentum conservation laws, incorporating reaction \(Q\)-values and non-relativistic approximations to predict exact energy-angle correlations of secondary reaction products.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experimental Parameters Mapping:&lt;/strong&gt; Enabled user-defined parameters for all target, projectile, and detector system properties to aid in pre-experimental design and kinematic validation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="key-simulation-features"&gt;Key Simulation Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stochastic Vertexing:&lt;/strong&gt; Simulates the exact reaction position and resulting angular distributions using Markov Chain Monte Carlo (MCMC) sampling arrays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Energy Loss Tracking:&lt;/strong&gt; Incorporates deterministic energy-loss algorithms tracking particle degradation inside both the target material and active detector media.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Reaction Capabilities:&lt;/strong&gt; Features a scalable framework capable of overlaying multiple concurrent reactions simultaneously.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="report"&gt;Report&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://Sanchari-Sen.github.io/portfolio/reports/kinematics-report.pdf"&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Monte Carlo Simulations for Nuclear Reaction Experiments using Silicon Charged Particles Detectors</title><link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project2/</link><pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project2/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt; Dr. Kabita Kundalia&lt;/p&gt;
+&lt;h3 id="major-tasks--methodology"&gt;Major Tasks &amp;amp; Methodology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Particle-Matter Modeling:&lt;/strong&gt; Simulated full particle-matter interactions in low-to-intermediate energy nuclear reactions using advanced Monte Carlo frameworks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geometry Configuration:&lt;/strong&gt; Hand-coded complex, multi-stage detector geometries based on specific exotic nuclei configurations to accurately track physical energy deposition layers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Synthesis Frameworks:&lt;/strong&gt; Utilized specialized computational toolkits including &lt;strong&gt;NPTools&lt;/strong&gt; and &lt;strong&gt;GEANT4&lt;/strong&gt; to build complete detector environments, tracking simulated reaction outputs for deep analytical evaluation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="analysis--optimization"&gt;Analysis &amp;amp; Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deployed the &lt;strong&gt;CERN-ROOT&lt;/strong&gt; C++ framework to extract, parse, and analyze heavy output simulation trees.&lt;/li&gt;
+&lt;li&gt;Compared synthetic data profiles against established literature baselines to iteratively optimize detector efficiencies.&lt;/li&gt;
+&lt;li&gt;Extracted structural metrics including total reaction cross-sections, optimal input beam energies, and simulated particle tracking counts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="report"&gt;Report&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://Sanchari-Sen.github.io/portfolio/reports/geant4-report.pdf"&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Nuclear Resonance Analysis Using R-Matrix Formalism</title><link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</link><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project3/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;R-Matrix Formalism Optimization:&lt;/strong&gt; Applied the multi-level, multi-channel R-matrix framework to model resonant scattering behaviors, identifying and characterizing unstable energy levels in compound nuclei appearing as sharp cross-section anomalies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compound Nucleus Profiling:&lt;/strong&gt; Conducted comprehensive numerical modeling of the resonant states within the compound nucleus \(^{16}\text{O}\) via the elastic channel \(^{12}\text{C}(\alpha,\alpha)^{12}\text{C}\).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-Section Computation:&lt;/strong&gt; Computed fine-grid differential reaction cross sections mapped strictly against variations in center-of-mass excitation energies using the C++ based &lt;strong&gt;AZURE2&lt;/strong&gt; configuration platform.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Nuclear Astrophysics Using Neural Networks</title><link>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project4/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/nuclear-physics/project4/</guid><description>&lt;p&gt;&lt;strong&gt;Institution:&lt;/strong&gt; Nuclear Astrophysics Laboratory, Bose Institute, India&lt;br&gt;
+&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dhruba Gupta&lt;br&gt;
+&lt;strong&gt;Mentor:&lt;/strong&gt; Ritankar Mitra&lt;/p&gt;
+&lt;h3 id="status"&gt;Status&lt;/h3&gt;
+&lt;p&gt;Still under progress&amp;hellip;&lt;/p&gt;</description></item></channel></rss>

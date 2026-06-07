@@ -1,33 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Stellar Physics on Sanchari Sen </title>
-    <link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/</link>
-    <description>Recent content in Stellar Physics on Sanchari Sen </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Radiative Transfer Modeling of Circumstellar Disks via RADMC-3D</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</link>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dr. Cornelis P. Dullemond&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Disk Physics &amp;amp; Evolution:&lt;/strong&gt; Explored the structure and evolution of protoplanetary and transition disks, focusing on dust–gas decoupling, inner cavities, and observational signatures linked to planet formation processes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Radiative Transfer Modeling:&lt;/strong&gt; Implemented Monte Carlo radiative transfer simulations using RADMC-3D to compute dust temperature distributions, synthetic images, and spectral energy distributions (SEDs) from physically motivated disk models.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Parametric Disk Analysis:&lt;/strong&gt; Systematically varied disk geometry (inner/outer radii) and stellar mass to quantify their impact on temperature profiles, disk morphology, and spectral characteristics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Synthetic Observables:&lt;/strong&gt; Generated mid-infrared images and full SEDs to connect theoretical disk structures with observable quantities, highlighting how radiative effects influence interpretation of astronomical data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Warped Disk Modeling:&lt;/strong&gt; Extended models to fully 3D warped disk geometries, incorporating tilt, rotation, and dynamical perturbations to simulate realistic asymmetries seen in observations.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Demonstrated how variations in stellar and disk parameters imprint distinct signatures on temperature structure, morphology, and SEDs—bridging theoretical models with observable disk features.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://Sanchari-Sen.github.io/portfolio/images/projects/stellar/radmc3d-image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Stellar Evolution &amp; Nucleosynthesis: Main Sequence and Post-Main Sequence</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project1/</link>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury &amp;amp; Prof. Dhruba Gupta&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Stellar Structure &amp;amp; Homologous Modeling:&lt;/strong&gt; Derived scaling relations for MS stars from fundamental stellar structure equations; Modeled stellar interiors using StatStar, validating theoretical predictions against empirical data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Observational Data Analysis:&lt;/strong&gt; Analyzed GAIA DR3 and HIPPARCOS surveys to construct Color-Magnitude Diagrams (CMDs) and Hertzsprung-Russell (HR) diagrams; Identified coeval stars in clusters (e.g., Messier 2) via MIST isochrone fitting, determining age, metallicity, and distance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Post-MS Nucleosynthesis:&lt;/strong&gt; Studied the triple-alpha process and the critical \(^{12}\text{C}(\alpha,\gamma)^{16}\text{O}\) reaction, which determines the \(\text{C/O}\) ratio in stellar cores; Performed R-matrix analysis (using AZURE2) to resolve resonant energy levels in \(^{16}\text{O}\), enhancing cross-section predictions for helium burning.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;outcomes--directions&#34;&gt;Outcomes &amp;amp; Directions&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Demonstrated observational alignment with homologous models: pp-chain dominates in low-mass stars, while CNO-cycle fits high-mass stars.&lt;/li&gt;&#xA;&lt;li&gt;Quantified uncertainties in \(^{12}\text{C}(\alpha,\gamma)^{16}\text{O}\) rates, pivotal for understanding elemental abundances in evolved stars.&lt;/li&gt;&#xA;&lt;li&gt;Developed Python pipelines for automated isochrone fitting and cluster parameter estimation.&lt;/li&gt;&#xA;&lt;li&gt;Future work involves looking into later evolutionary stages and utilizing more complex evolutionary codes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://Sanchari-Sen.github.io/portfolio/images/projects/stellar/finalfit.png&#34; alt=&#34;Isochrone Fitting&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quantitative Forecasting of Sunspot Numbers Using Machine Learning</title>
-      <link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project2/</link>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury&lt;br&gt;&#xA;&lt;strong&gt;Co-authors:&lt;/strong&gt; Tiasha Singha, Sirsha Dutta&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-investigations&#34;&gt;Key Investigations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Solar Dynamo Mechanics:&lt;/strong&gt; Investigated the fundamental physics behind solar magnetic field variations, tracking surface sunspot formation mechanics alongside global magnetic pole-flip cyclic phases.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time-Series Forecasting:&lt;/strong&gt; Built predictive machine learning models targeting monthly sunspot numbers, utilizing historical solar dataset baselines sourced directly from the World Data Center SILSO.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Architecture Comparison:&lt;/strong&gt; Evaluated performance margins across traditional statistical regression modeling approaches against multi-layered deep learning architectures optimized for sequential tracking.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;publications--presentations&#34;&gt;Publications &amp;amp; Presentations&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Paper Under Review:&lt;/strong&gt; &lt;em&gt;Quantitative Forecasting of Sunspot Numbers: Statistical Models and Deep Learning Models&lt;/em&gt; * &lt;strong&gt;Conference Talk:&lt;/strong&gt; Presented findings at the &lt;em&gt;International Conference on Advanced Physics: Innovations for a Sustainable Future&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;report&#34;&gt;Report&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://Sanchari-Sen.github.io/portfolio/reports/sunspot-report.pdf&#34;&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stellar Physics on Sanchari Sen</title><link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/</link><description>Recent content in Stellar Physics on Sanchari Sen</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/index.xml" rel="self" type="application/rss+xml"/><item><title>Radiative Transfer Modeling of Circumstellar Disks via RADMC-3D</title><link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</link><pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project3/</guid><description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Prof. Dr. Cornelis P. Dullemond&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Disk Physics &amp;amp; Evolution:&lt;/strong&gt; Explored the structure and evolution of protoplanetary and transition disks, focusing on dust–gas decoupling, inner cavities, and observational signatures linked to planet formation processes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Radiative Transfer Modeling:&lt;/strong&gt; Implemented Monte Carlo radiative transfer simulations using RADMC-3D to compute dust temperature distributions, synthetic images, and spectral energy distributions (SEDs) from physically motivated disk models.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parametric Disk Analysis:&lt;/strong&gt; Systematically varied disk geometry (inner/outer radii) and stellar mass to quantify their impact on temperature profiles, disk morphology, and spectral characteristics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Synthetic Observables:&lt;/strong&gt; Generated mid-infrared images and full SEDs to connect theoretical disk structures with observable quantities, highlighting how radiative effects influence interpretation of astronomical data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Warped Disk Modeling:&lt;/strong&gt; Extended models to fully 3D warped disk geometries, incorporating tilt, rotation, and dynamical perturbations to simulate realistic asymmetries seen in observations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="outcomes"&gt;Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrated how variations in stellar and disk parameters imprint distinct signatures on temperature structure, morphology, and SEDs—bridging theoretical models with observable disk features.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Sanchari-Sen.github.io/portfolio/images/projects/stellar/radmc3d-image.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>Stellar Evolution &amp; Nucleosynthesis: Main Sequence and Post-Main Sequence</title><link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project1/</link><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project1/</guid><description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury &amp;amp; Prof. Dhruba Gupta&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stellar Structure &amp;amp; Homologous Modeling:&lt;/strong&gt; Derived scaling relations for MS stars from fundamental stellar structure equations; Modeled stellar interiors using StatStar, validating theoretical predictions against empirical data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observational Data Analysis:&lt;/strong&gt; Analyzed GAIA DR3 and HIPPARCOS surveys to construct Color-Magnitude Diagrams (CMDs) and Hertzsprung-Russell (HR) diagrams; Identified coeval stars in clusters (e.g., Messier 2) via MIST isochrone fitting, determining age, metallicity, and distance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Post-MS Nucleosynthesis:&lt;/strong&gt; Studied the triple-alpha process and the critical \(^{12}\text{C}(\alpha,\gamma)^{16}\text{O}\) reaction, which determines the \(\text{C/O}\) ratio in stellar cores; Performed R-matrix analysis (using AZURE2) to resolve resonant energy levels in \(^{16}\text{O}\), enhancing cross-section predictions for helium burning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="outcomes--directions"&gt;Outcomes &amp;amp; Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrated observational alignment with homologous models: pp-chain dominates in low-mass stars, while CNO-cycle fits high-mass stars.&lt;/li&gt;
+&lt;li&gt;Quantified uncertainties in \(^{12}\text{C}(\alpha,\gamma)^{16}\text{O}\) rates, pivotal for understanding elemental abundances in evolved stars.&lt;/li&gt;
+&lt;li&gt;Developed Python pipelines for automated isochrone fitting and cluster parameter estimation.&lt;/li&gt;
+&lt;li&gt;Future work involves looking into later evolutionary stages and utilizing more complex evolutionary codes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="https://Sanchari-Sen.github.io/portfolio/images/projects/stellar/finalfit.png" alt="Isochrone Fitting"&gt;&lt;/p&gt;</description></item><item><title>Quantitative Forecasting of Sunspot Numbers Using Machine Learning</title><link>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project2/</link><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate><guid>https://Sanchari-Sen.github.io/portfolio/research/stellar-physics/project2/</guid><description>&lt;p&gt;&lt;strong&gt;Supervisor:&lt;/strong&gt; Dr. Suparna Roychowdhury&lt;br&gt;
+&lt;strong&gt;Co-authors:&lt;/strong&gt; Tiasha Singha, Sirsha Dutta&lt;/p&gt;
+&lt;h3 id="key-investigations"&gt;Key Investigations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Solar Dynamo Mechanics:&lt;/strong&gt; Investigated the fundamental physics behind solar magnetic field variations, tracking surface sunspot formation mechanics alongside global magnetic pole-flip cyclic phases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time-Series Forecasting:&lt;/strong&gt; Built predictive machine learning models targeting monthly sunspot numbers, utilizing historical solar dataset baselines sourced directly from the World Data Center SILSO.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Architecture Comparison:&lt;/strong&gt; Evaluated performance margins across traditional statistical regression modeling approaches against multi-layered deep learning architectures optimized for sequential tracking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="publications--presentations"&gt;Publications &amp;amp; Presentations&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Paper Under Review:&lt;/strong&gt; &lt;em&gt;Quantitative Forecasting of Sunspot Numbers: Statistical Models and Deep Learning Models&lt;/em&gt; * &lt;strong&gt;Conference Talk:&lt;/strong&gt; Presented findings at the &lt;em&gt;International Conference on Advanced Physics: Innovations for a Sustainable Future&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="report"&gt;Report&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://Sanchari-Sen.github.io/portfolio/reports/sunspot-report.pdf"&gt;📄 Download Full Report&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

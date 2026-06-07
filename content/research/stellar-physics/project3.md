@@ -25,7 +25,6 @@ mathjax: true
 
 ---
 
-### Report
-[📄 Download Full Report](/portfolio/reports/radmc3d-report.pdf)
-
+### Publication
+[📜 Read Official Publication](https://doi.org/10.1051/epjconf/202637001029)
 

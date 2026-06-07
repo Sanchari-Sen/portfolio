@@ -94,13 +94,13 @@ params:
     title: "Sanchari."
     subtitle: "Physicist in training | Photographer"
     content: "An M.Sc Physics student, curious about stars, slowing learning how to study them with clicks in my computer"
-    image: /portfolio/images/hero.jpg
+    image: /portfolio/images/hero.svg
     bottomImage:
       enable: true
     button:
       enable: true
-      name: "Resume"
-      url: "https://drive.google.com/file/d/15JVgIxwGgAk5VlYiuSV9vZLRhPPnAVRJ/view?usp=sharing"
+      name: "Academic CV"
+      url: "https://drive.google.com/file/d/1yfOrg6N6oXD6npZL2r2BLIOSBV9eNSVN/view?usp=drive_link"
       download: true
       newPage: false
     socialLinks:
@@ -128,7 +128,7 @@ params:
       - title: "M.Sc Physics"
         school:
           name: "Heidelberg University"
-          url: "https://example.org"
+          url: "https://www.physik.uni-heidelberg.de/"
         date: "October, 2025 - Present"
         content: |-
           Specialization:
@@ -137,7 +137,7 @@ params:
       - title: "B.Sc Physics"
         school:
           name: "St. Xavier's College (Autonomous), Kolkata"
-          url: "https://example.org"
+          url: "https://sxccal.edu/postgraduate-and-research-department-of-physics"
         date: "2022 - 2025"
         content: |-
           B.Sc dissertation: Stellar Evolution and Nucleosyntheis, under the supervision of Dr. Suparna Roychowdhury and Prof. Dr. Dhruba Gupta
